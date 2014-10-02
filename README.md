@@ -3,8 +3,8 @@ Web crawler for audio program Sala dos Professores from Eldorado estation
 
 ## Call
 ```ruby
-$ require 'SalaProf'
-$ SalaProf::Info.new(1) # first page
+require 'SalaProf'
+SalaProf::Info.new(1) # first page
 ```
 
 ## Tools
