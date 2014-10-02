@@ -20,11 +20,11 @@ wget.exe # for download
 ```
 ## Other Web crawler
 
-https://github.com/stewartmckee/cobweb
-https://github.com/chriskite/anemone
-https://github.com/coryodaniel/klepto
-https://github.com/felipecsl/wombat
-https://github.com/bejean/crawl-anywhere
+* [cobweb](https://github.com/stewartmckee/cobweb)
+* [anemone](https://github.com/chriskite/anemone)
+* [klepto](https://github.com/coryodaniel/klepto)
+* [wombat](https://github.com/felipecsl/wombat)
+* [crawl-anywhere](https://github.com/bejean/crawl-anywhere)
 
 ## The Author
 
