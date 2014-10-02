@@ -1,14 +1,13 @@
 # SalaProf - Jazz and Ruby together
-
 Web crawler for audio program Sala dos Professores from Eldorado estation
 
 ## Call
-
+```ruby
 $ require 'SalaProf'
 $ SalaProf::Info.new(1) # first page
+```
 
 ## Tools
-
 ```ruby
 # Gems
 net/http
@@ -19,7 +18,6 @@ hpricot
 wget.exe # for download
 ```
 ## Other Web crawler
-
 * [cobweb](https://github.com/stewartmckee/cobweb)
 * [anemone](https://github.com/chriskite/anemone)
 * [klepto](https://github.com/coryodaniel/klepto)
@@ -27,5 +25,4 @@ wget.exe # for download
 * [crawl-anywhere](https://github.com/bejean/crawl-anywhere)
 
 ## The Author
-
 <mailto:para.alves@gmail.com.br>
