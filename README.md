@@ -18,6 +18,8 @@ hpricot
 wget.exe # for download
 ```
 ## Other Web crawler
+* https://github.com/rest-client/rest-client
+* https://github.com/sparklemotion/mechanize
 * [cobweb](https://github.com/stewartmckee/cobweb)
 * [anemone](https://github.com/chriskite/anemone)
 * [klepto](https://github.com/coryodaniel/klepto)
